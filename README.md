@@ -1,7 +1,7 @@
 # Hi👋, It's me Parth!😇
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Development+Engineer;I'm+an+AI+%26+Data+Science+Student;I'm+solving+real+world+problems;I'm+building+meaningful+technology)
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="200" width="300" />
 
 - 🤖 Building AI & LLM Applications with passion and precision.
 - 👨‍💻 I fuse data, code, and creativity to build meaningful technology.
