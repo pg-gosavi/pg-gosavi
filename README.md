@@ -1,4 +1,4 @@
-# Hello👋, It's me Parth!😇
+# Hi👋, It's me Parth!😇
 ![](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=3EA9F5&lines=I'm+a+Software+Development+Engineer;I'm+an+AI+%26+Data+Science+Student;I'm+solving+real+world+problems;I'm+building+meaningful+technology)
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DevrajDC/DevrajDC/main/developer.gif" height="250" width="375" />
@@ -10,7 +10,7 @@
 <br>
 <br>
 
-## 💻 Tech Stack
+## 💻 Tech Backpack
 
 <div align="center">
 
@@ -99,8 +99,8 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parth93.751@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/parth-gosavi)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/parthgosavi)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pg-gosavi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://parth-gosavi-portfolio.vercel.app/)
 
 ### 💼 **Open to Opportunities**
 **Backend Development** • **AI/ML Engineering** • **Full-Stack Development** • **Open Source Collaboration**
